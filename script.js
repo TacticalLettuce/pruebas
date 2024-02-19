@@ -1,3 +1,4 @@
+// Crear la escena
 var scene = new THREE.Scene();
 
 // Crear la cámara
